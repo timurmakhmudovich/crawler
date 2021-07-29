@@ -1,5 +1,5 @@
 # crawler
-Search all subpages of an internet site
+Search all URLs whithin an internet site
 
 Assumptions and limitations 
 1. URL - means something in tag «a» 
